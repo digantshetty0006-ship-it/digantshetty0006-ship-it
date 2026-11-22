@@ -38,6 +38,10 @@ A Smart India Hackathon 2026 build. SafeBite scores businesses into risk tiers, 
 
 [Live demo ↗](https://foodshield-ai.vercel.app) · [Source ↗](https://github.com/digantshetty0006-ship-it/SafeBite-FoodSafety)
 
+<p align="center">
+  <a href="https://foodshield-ai.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/safebite-home.jpg" alt="SafeBite homepage: Know what's safe to eat — before you take a bite." width="660"></a>
+</p>
+
 ### Drishti
 
 **A risk and investigation console for public works.**
@@ -47,6 +51,10 @@ Drishti reads MPLADS project data and runs twelve anomaly detectors over the fie
 `React` · `FastAPI` · `PostgreSQL` + `pgvector` · `scikit-learn` · `XGBoost`
 
 [Live demo ↗](https://drishti-bitecoder.vercel.app) · [Source ↗](https://github.com/digantshetty0006-ship-it/Drishti)
+
+<p align="center">
+  <a href="https://drishti-bitecoder.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/drishti-home.jpg" alt="DRISHTI homepage: National Programme Intelligence, Risk & Oversight." width="660"></a>
+</p>
 
 ---
 
