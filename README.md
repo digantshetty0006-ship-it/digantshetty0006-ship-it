@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Digant Shetty — third-year IT student, full-stack developer and AI/ML builder in Navi Mumbai. A year dial marks day 326 of 2026." width="100%">
+  <img src="https://digantshetty0006-ship-it.github.io/twelve/assets/hero.svg" alt="Digant Shetty — third-year IT student, full-stack developer and AI/ML builder in Navi Mumbai. A year dial marks day 326 of 2026." width="100%">
 </p>
 
 ### I build the part of software where the numbers have to be right.
@@ -25,7 +25,7 @@ Most trackers want a signup and a statement upload before they show you anything
 [Live demo ↗](https://folio-x-ray.vercel.app) · [Source ↗](https://github.com/digantshetty0006-ship-it/folio-x-ray)
 
 <p align="center">
-  <a href="https://folio-x-ray.vercel.app"><img src="assets/folio-home.jpg" alt="Folio X-Ray homepage: Know what you actually own." width="660"></a>
+  <a href="https://folio-x-ray.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/folio-home.jpg" alt="Folio X-Ray homepage: Know what you actually own." width="660"></a>
 </p>
 
 ### SafeBite
@@ -59,7 +59,7 @@ A one-button timing game played on a year dial. The hand sweeps through 365 days
 Hand-written SVG, vanilla JavaScript and the Web Audio API. No framework, no backend, no tracking. Your best year stays in `localStorage`.
 
 <p align="center">
-  <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="assets/twelve-preview.svg" alt="TWELVE game screen: a twelve-month dial with a sweeping hand, a year ledger, and the rules of play." width="100%"></a>
+  <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/twelve-preview.svg" alt="TWELVE game screen: a twelve-month dial with a sweeping hand, a year ledger, and the rules of play." width="100%"></a>
 </p>
 
 <p align="center">
