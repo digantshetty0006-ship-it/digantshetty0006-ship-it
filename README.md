@@ -84,12 +84,12 @@ A one-button timing game played on a year dial. The hand sweeps through 365 days
 - **PaperLens** — RAG over research PDFs with page-aware citations, semantic retrieval, and multi-paper comparison. `Python` `pgvector` `FastAPI`
 - **PRISM-H** — an IEEE-format manuscript on privacy-preserving federated behavioural memory for adaptive honeypots. Protocol complete; experiments marked pending. `LaTeX` `IEEEtran`
 
-## Connect
+## Connect with Me
 
 <p align="center">
-  <a href="https://github.com/digantshetty0006-ship-it"><img src="https://img.shields.io/badge/GitHub-digantshetty0006--ship--it-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://folio-x-ray.vercel.app"><img src="https://img.shields.io/badge/Folio_X--Ray-Live-B23A1F?style=for-the-badge&logo=vercel&logoColor=white" alt="Folio X-Ray live"></a>
-  <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="https://img.shields.io/badge/TWELVE-Play-6C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play TWELVE"></a>
+  <a href="https://github.com/digantshetty0006-ship-it"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://folio-x-ray.vercel.app"><img src="https://img.shields.io/badge/Folio_X--Ray-B23A1F?style=for-the-badge&logo=vercel&logoColor=white" alt="Folio X-Ray live"></a>
+  <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="https://img.shields.io/badge/TWELVE-6C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play TWELVE"></a>
 </p>
 
 <p align="center">Open to full-stack, backend, and applied AI/ML internships.<br>The fastest way to reach me is a GitHub issue on any repository.</p>
