@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://digantshetty0006-ship-it.github.io/twelve/assets/hero-v2.svg" alt="Digant Shetty — IT undergraduate, full-stack developer and AI/ML enthusiast. Navi Mumbai. Open to internships." width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://digantshetty0006-ship-it.github.io/twelve/assets/hero-mobile.svg">
+    <img src="https://digantshetty0006-ship-it.github.io/twelve/assets/hero-v2.svg" alt="Digant Shetty — IT undergraduate, full-stack developer and AI/ML enthusiast. Navi Mumbai. Open to internships." width="100%">
+  </picture>
 </p>
 
 <p align="center"><strong>Open to full-stack · backend · applied AI/ML internships</strong></p>
