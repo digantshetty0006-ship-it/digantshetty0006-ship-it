@@ -50,11 +50,11 @@ I care about the rounding, the empty state, and the person on the other side of 
 ## Selected Work
 
 <p align="center">
-  <a href="https://folio-x-ray.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/folio-card.jpg" width="260" alt="Folio X-Ray homepage"></a>
+  <a href="https://folio-x-ray.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/folio-card.jpg" width="270" alt="Folio X-Ray homepage"></a>
   &nbsp;
-  <a href="https://foodshield-ai.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/safebite-card.jpg" width="260" alt="SafeBite homepage"></a>
+  <a href="https://foodshield-ai.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/safebite-card.jpg" width="270" alt="SafeBite homepage"></a>
   &nbsp;
-  <a href="https://drishti-bitecoder.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/drishti-card.jpg" width="260" alt="Drishti homepage"></a>
+  <a href="https://drishti-bitecoder.vercel.app"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/drishti-card.jpg" width="270" alt="Drishti homepage"></a>
 </p>
 
 - **[Folio X-Ray](https://folio-x-ray.vercel.app)** — a private mutual-fund X-ray: XIRR with real cash-flow dates, fund overlap, the Regular-vs-Direct cost gap, and goal outcomes. All in the browser. `Next.js` `TypeScript` `Vitest` · [Source](https://github.com/digantshetty0006-ship-it/folio-x-ray)
