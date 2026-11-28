@@ -1,11 +1,9 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="https://digantshetty0006-ship-it.github.io/twelve/assets/hero-mobile.svg">
-    <img src="https://digantshetty0006-ship-it.github.io/twelve/assets/hero-v2.svg" alt="Digant Shetty — IT undergraduate, full-stack developer and AI/ML enthusiast. Navi Mumbai. Open to internships." width="100%">
+    <img src="https://digantshetty0006-ship-it.github.io/twelve/assets/hero-v2.svg" alt="Digant Shetty — IT undergraduate, full-stack developer and AI/ML enthusiast. Navi Mumbai." width="100%">
   </picture>
 </p>
-
-<p align="center"><strong>Open to full-stack · backend · applied AI/ML internships</strong></p>
 
 ## About
 
@@ -66,12 +64,12 @@ I care about the rounding, the empty state, and the person on the other side of 
 
 ## TWELVE
 
-**Twelve months. One hand. Three wrong taps and the year is gone.**
+**Twelve months. Twelve levels. One hand. Run out of mornings and the level gets away.**
 
-A one-button timing game played on a year dial. The hand sweeps through 365 days; you lock each month as it passes. Keep all twelve and the year is yours. Hand-written SVG, vanilla JavaScript, Web Audio. No framework, no backend.
+A one-button timing game played on a year dial. Each level hands you a contract of months to keep; the hand gets faster, and the rules change — shuffled contracts, mirages, a reversing hand, gusts, and a narrower perfect window. Hand-written SVG, vanilla JavaScript, Web Audio. No framework, no backend.
 
 <p align="center">
-  <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/twelve-preview.svg" alt="TWELVE game screen: a twelve-month dial, a sweeping hand, and a year ledger" width="100%"></a>
+  <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/twelve-preview.jpg" alt="TWELVE game screen: a twelve-level campaign, a year dial with a sweeping hand, and a month ledger" width="100%"></a>
 </p>
 
 <p align="center">
@@ -95,6 +93,6 @@ A one-button timing game played on a year dial. The hand sweeps through 365 days
   <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="https://img.shields.io/badge/TWELVE-6C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play TWELVE"></a>
 </p>
 
-<p align="center">Open to full-stack, backend, and applied AI/ML internships.<br>The fastest way to reach me is a GitHub issue on any repository.</p>
+<p align="center">The fastest way to reach me is a GitHub issue on any repository.</p>
 
 <sub>Written in Navi Mumbai · November 2026 · The dial is hand-drawn.</sub>
