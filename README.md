@@ -66,7 +66,7 @@ I care about the rounding, the empty state, and the person on the other side of 
 
 **Twelve months. Twelve levels. One hand. Run out of mornings and the level gets away.**
 
-A one-button timing game played on a year dial. Each level hands you a contract of months to keep; the hand gets faster, and the rules change — shuffled contracts, mirages, a reversing hand, gusts, and a narrower perfect window. Hand-written SVG, vanilla JavaScript, Web Audio. No framework, no backend.
+A one-button timing game played on a year dial. Each level hands you a contract of months to keep. Three modes set the pressure — Calm gives you five mornings, Standard three, Frenzy two with a faster hand and a thinner perfect window. The rules change as you climb: shuffled contracts, mirages, a reversing hand, gusts, and narrower perfect windows. Hand-written SVG, vanilla JavaScript, Web Audio. No framework, no backend.
 
 <p align="center">
   <a href="https://digantshetty0006-ship-it.github.io/twelve/"><img src="https://digantshetty0006-ship-it.github.io/twelve/assets/twelve-preview.jpg" alt="TWELVE game screen: a twelve-level campaign, a year dial with a sweeping hand, and a month ledger" width="100%"></a>
